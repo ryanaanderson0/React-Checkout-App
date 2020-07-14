@@ -1,12 +1,16 @@
 import React from 'react'
 
+
 const Navbar = () => {
     return(
-        <nav class="nav-wrapper">
+        <nav class="nav-wrapper accent-color">
             <div class="nav-container">
-                <ul class="nav nav-tabs">
+
+                <h1>RA Design's Shop</h1>
+
+                <ul class="">
                     <li class="nav-item">
-                        <a class="nav-link active" href="#">Shop</a>
+                        <a class="nav-link" href="#">Shop</a>
                     </li>
 
                     <li class="nav-item">
